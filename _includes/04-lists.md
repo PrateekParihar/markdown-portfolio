@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Here are the list of my favorite things.
+- Coding
+- Running
+- Bowling
